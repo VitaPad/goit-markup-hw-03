@@ -305,6 +305,8 @@ color:#434455 ;
     line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .footer-accent{
     color: #F4F4FD;
@@ -322,8 +324,7 @@ color:#434455 ;
     padding-bottom: 100px;
 }
 .footer-container {
-    display: flex;
-    flex-direction: column;
-    gap: 17.5px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 /*=============/FOOTER STYLES================*/
