@@ -172,9 +172,6 @@ color:#434455 ;
 /*----------------SECTION 1-------------------*/
 
 /*----------------SECTION 2-------------------*/
-.section-title-first {
-    margin-bottom: 8px;
-}
 .advantages-section {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -186,6 +183,7 @@ color:#434455 ;
     font-weight: 500;
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
 }
 
 .advantages-section-menu {
@@ -204,7 +202,9 @@ color:#434455 ;
     letter-spacing: 0.02em;
     padding-top: 8px;
 }
+/*----------------SECTION 2-------------------*/
 
+/*----------------SECTION 3-------------------*/
 .team-section-menu {
     display: flex;
     gap: 24px;
@@ -216,6 +216,7 @@ color:#434455 ;
     background-color: #F4F4FD;
     height: 732px;
     padding-top: 120px;
+    padding-bottom: 120px;
 }
 .team-item {
     background-color: #FFFFFF;
