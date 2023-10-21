@@ -225,6 +225,7 @@ color:#434455 ;
 .team-item {
     background-color: #FFFFFF;
     width: 264px;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-name-title {
