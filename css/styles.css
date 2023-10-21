@@ -1,17 +1,22 @@
 
-h1,h2,h3,p {
+h1,
+h2,
+h3,
+p {
     margin-top: 0;
     margin-bottom: 0;
-
 }
+
 ul,ol {
     margin-top: 0;
     margin-bottom: 0;
     padding-left: 0;
 }
+
 img {
     display: block;
 }
+
 .list {
     list-style-type: none;
 }
@@ -199,7 +204,6 @@ color:#434455 ;
     font-size: 16px;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
-    padding-top: 8px;
 }
 
 /*======================================/SECTION2===================================*/
@@ -218,7 +222,7 @@ color:#434455 ;
     display: flex;
     gap: 24px;
     justify-content: center;
-    margin-top: 72px;
+    
 }
 
 .team-item {
