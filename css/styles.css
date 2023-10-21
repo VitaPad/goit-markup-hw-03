@@ -220,7 +220,13 @@ color:#434455 ;
 }
 
 .team-section-container {
-    
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.team-name-title {
+    text-align: center;
+    margin-bottom: 8px;
 }
 
 .team-item {
