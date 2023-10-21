@@ -102,7 +102,7 @@ body {
 
 .contact-menu {
     display: flex;
-    gap: 40px;
+    gap: 24px;
 }
 
 .contact-link {
